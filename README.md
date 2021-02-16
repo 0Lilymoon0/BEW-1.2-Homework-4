@@ -1,4 +1,4 @@
-# Homework 3: Grocery Store
+# Homework 4: Grocery Store Site pt.2
 
 _For instructions on how to complete this assignment, see [here](https://make-school-courses.github.io/BEW-1.2-Authentication-and-Associations/#/Assignments/grocery-store)._
 
